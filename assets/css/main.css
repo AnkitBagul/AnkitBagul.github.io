@@ -607,6 +607,7 @@ section,
   content: "";
   background: color-mix(in srgb, var(--background-color), transparent 30%);
   position: absolute;
+  height: 30%;
   inset: 0;
   z-index: 2;
 }
